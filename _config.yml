@@ -86,7 +86,7 @@ author:
   location         : "Paris, France"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.fr/citations?user=-BcHcowAAAAJ&hl=fr&oi=ao"
   email            : "arshak.minasyan@ensae.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "pointguard0"
+  github           : "pointguard0"
   google_plus      :
   keybase          :
   instagram        :
