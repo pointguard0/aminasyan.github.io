@@ -1,5 +1,5 @@
 ---
-title: "Excess-Risk consistency of group-hard thresholding estimator in Robust Estimation of Gaussian Mean"
+title: "Excess-Risk Consistency of Group-hard Thresholding Estimator in Robust Estimation of Gaussian Mean"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper proves that using properly chosen threshold for group-hard thresholding estimator yields the optimal constant in front of parametric rate ($p/n$) in the risk bound for the expected error between the true mean value of Gaussian distribution and our estimator.'
