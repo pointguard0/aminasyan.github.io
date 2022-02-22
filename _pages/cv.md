@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-My CV can be found [here](link-to-my-cv.pdf). Last updated: 21.02.2022
+My CV can be found [here](files/cv-for-webpage.pdf). Last updated: 15.02.2022
 
