@@ -9,15 +9,15 @@ author_profile: true
 
 Ping-pong
 ======
-* B.S. in Electronics Engineering, Peking University, 2016
+* 
 
 Chess
 ======
-* Research Scientist
+* 
 
 Triathlon
 ======
-*
+* 
   
 Football
 ======
@@ -25,4 +25,4 @@ Football
 
 Basketball
 ======
-*
+* 
