@@ -6,7 +6,7 @@ excerpt: 'This paper proves that using properly chosen threshold for group-hard 
 date: 2020-05-01
 venue: 'Journal of Contemporary Mathematical Analysis (Armenian Academy of Sciences)'
 paperurl: 'http://pointguard0.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
-[Download paper here](http://pointguard0.github.io/files/paper2.pdf)
+[Link to the paper](https://link.springer.com/article/10.3103/S1068362320030073)
+
