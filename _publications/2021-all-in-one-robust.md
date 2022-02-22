@@ -2,9 +2,9 @@
 title: "All-in-one Robust Estimator for the Gaussian Mean"
 collection: publications
 permalink: /publication/2021-all-in-one-robust
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'A robust estimator is obtained by an iterative reweighting approach assigning weights by solving a convex optimization problem (SDP). The estimator enjoys 5 key properties desired for a robust estimator.'
 date: 2021-03-04
-venue: 'Annals of Statistics, 2022 (to appear)'
+venue: 'Annals of Statistics (to appear)'
 arXiv: 'https://arxiv.org/abs/2002.01432'
 paperurl: 'http://pointguard0.github.io/files/all-in-one.pdf'
 ---
