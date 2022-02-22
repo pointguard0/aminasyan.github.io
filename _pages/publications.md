@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-The papers listed below have alphabetical author order unless specified otherwise. 
-
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{https://scholar.google.fr/citations?hl=en&user=-BcHcowAAAAJ}}">my Google Scholar profile</a>.</u>
 {% endif %}
