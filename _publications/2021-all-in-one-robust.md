@@ -1,6 +1,5 @@
 ---
-title: "All-in-one Robust Estimator for the Gaussian Mean"
-authors: [A. S. Dalalyan](https://adalalyan.github.io/), A. Minasyan
+title: "All-in-one Robust Estimator for the Gaussian Mean", joint work with [A. S. Dalalyan](https://adalalyan.github.io/)
 collection: publications
 permalink: /publication/2021-all-in-one-robust
 excerpt: '
