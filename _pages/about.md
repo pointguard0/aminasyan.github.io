@@ -10,10 +10,9 @@ redirect_from:
 
 I am a postdoctoral fellow at [CREST-ENSAE](https://www.ensae.fr/) funded by [Labex ECODEC](https://labex-ecodec.ensae.fr/) and hosted by Prof. [Arnak Dalalyan](https://adalalyan.github.io/).
 
-My research interest lies broadly in the various aspects of mathematical statistics, especially high-dimensionnal statistics, robust 
-statistics, minimax analysis, etc. My work focuses on studying both the statistical and computational complexities of some high-dimensional tasks in statistics.
+My research interests lie broadly in the intersection of high-dimensional statistics, robust statistics and nonparametric statistics. In particular, my work so far has focused on studying both the statistical and computational complexities of certain problems in high-dimensional statistics.
 
-Recently, I recieved my PhD in mathematics from [YSU](http://www.ysu.am/main/), where I was fortunate to be advised by Prof. Victor Ohanian. Prior to YSU I completed my bachelor studies in [HSE](https://www.hse.ru/en/) and master studies in [SkolTech](https://www.skoltech.ru/en/) graduating in 2016 and 2018, respectively. I was fortunate to be advised by Prof. [Vladimir Spokoiny](https://www.wias-berlin.de/people/spokoiny/?lang=0). 
+Previously, I recieved my PhD in mathematics from [YSU](http://www.ysu.am/main/), where I was fortunate to be advised by Prof. Victor Ohanian. Prior to that, I completed my bachelor studies in [HSE](https://www.hse.ru/en/) and masters studies in [SkolTech](https://www.skoltech.ru/en/) graduating in 2016 and 2018, respectively. I was fortunate to be advised by Prof. [Vladimir Spokoiny](https://www.wias-berlin.de/people/spokoiny/?lang=0). 
 
 --- 
 ### Publications
@@ -71,13 +70,13 @@ Robust Principal Component Analysis
 ---
 ### Teaching
 
-- Yerevan State University (YSU)
-* Teaching Assistant in "Probability Theory I, II " 2019-2021
-* Teaching Assistant in "Stochastic Processes" 2020-2021
-- Higher School of Economics (HSE)
-* Teaching Assistant in "Probability Theory and Statistics I, II" 2014-2016
-* Teaching Assistant in "Statistical Methods in Machine Learning" 2017-2018
-* Teaching Assistant in "Statistics of Stochastic Processes" 2017-2019
+1. Yerevan State University (YSU)
+- Teaching Assistant in "Probability Theory I, II " 2019-2021
+- Teaching Assistant in "Stochastic Processes" 2020-2021
+2. Higher School of Economics (HSE)
+- Teaching Assistant in "Probability Theory and Statistics I, II" 2014-2016
+- Teaching Assistant in "Statistical Methods in Machine Learning" 2017-2018
+- Teaching Assistant in "Statistics of Stochastic Processes" 2017-2019
 
 ---
 ### CV
