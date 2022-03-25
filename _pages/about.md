@@ -8,16 +8,6 @@ redirect_from:
   - /about.html
 ---
 
----
-permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 I am a postdoctoral fellow at [CREST-ENSAE](https://www.ensae.fr/) funded by [Labex ECODEC](https://labex-ecodec.ensae.fr/) and hosted by Prof. [Arnak Dalalyan](https://adalalyan.github.io/).
 
 My research interest lies broadly in the various aspects of mathematical statistics, especially high-dimensionnal statistics, robust 
