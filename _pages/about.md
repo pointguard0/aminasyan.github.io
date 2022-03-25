@@ -32,31 +32,52 @@ Arnak S. Dalalyan, Arshak Minasyan \
 *Annals of Statistics, 2022.*
 - [Alternating Least Squares in Generalized Least Squares](https://link.springer.com/article/10.3103/S1068362319050078) \
 Arshak Minasyan \
-*Journal of Contemporary Mathematical Analysis (Armenian Academy of Sciences), 54, pages 302–312 (2019).* \
+*Journal of Contemporary Mathematical Analysis (Armenian Academy of Sciences), 54, pages 302–312 (2019).*
 
 ---
 ### Talks 
 
-- [Meeting in Mathematical Statistics](https://conferences.cirm-math.fr/2581.html), *December 2021* in Luminy, France \
+- [Meeting in Mathematical Statistics](https://conferences.cirm-math.fr/2581.html)\
+*December 2021* in Luminy, France \
 All-in-one Robust Estimator of the Gaussian Mean
-- [Modern methods of information theory and optimization](https://sochisirius.ru/obuchenie/graduates/smena928/4472), *July 2021* in Sochi, Russia \ 
+- [Modern methods of information theory and optimization](https://sochisirius.ru/obuchenie/graduates/smena928/4472)\
+*July 2021* in Sochi, Russia \
 Feature Matching Detection in Presence of Noise and Outliers
-- [International Conference Dedicated to the 100th Anniversary of YSU](https://dokumen.tips/documents/programme-ysuam-ysu-sss-6th-international-conference-dedicated-to-the-100th-anniversary.html), *December 2019* in Yerevan, Armenia \
+- [International Conference Dedicated to the 100th Anniversary of YSU](https://dokumen.tips/documents/programme-ysuam-ysu-sss-6th-international-conference-dedicated-to-the-100th-anniversary.html)\
+*December 2019* in Yerevan, Armenia \
 Robust Estimation of the Mean of sub-Gaussian Vector
-- [Structural Inference in High-Dimensional Models 2](https://cs.hse.ru/hdilab/sihdm/2019/), *August 2019* in Saint-Petersburg, Russia \
+- [Structural Inference in High-Dimensional Models 2](https://cs.hse.ru/hdilab/sihdm/2019/)\
+*August 2019* in Saint-Petersburg, Russia \
 Excess-Risk Consistency in Robust Estimation of Gaussian Mean
-- [21st European Young Statisticians Meeting](http://www.eysm2019.matf.bg.ac.rs/#:~:text=THE%20EUROPEAN%20YOUNG%20STATISTICIANS%20MEETINGS&text=The%20idea%20of%20the%20meeting,probability%20theory%20to%20applied%20statistics.), *June 2019* in Belgrade, Serbia \
+- [21st European Young Statisticians Meeting](http://www.eysm2019.matf.bg.ac.rs/#:~:text=THE%20EUROPEAN%20YOUNG%20STATISTICIANS%20MEETINGS&text=The%20idea%20of%20the%20meeting,probability%20theory%20to%20applied%20statistics.)\
+*June 2019* in Belgrade, Serbia \
 On the Convergence and Robustness of Mean Estimation
-- [12th International Conference on Numerical Optimization and Numerical Linear Algebra](http://lsec.cc.ac.cn/~icnonla19/), *May 2019* in Shangrao, Jiangxi, China \
+- [12th International Conference on Numerical Optimization and Numerical Linear Algebra](http://lsec.cc.ac.cn/~icnonla19/)\
+*May 2019* in Shangrao, Jiangxi, China \
 Robust Mean Estimation via Convex Optimization and Beyond
-- [International Conference on Mathematical Optimization](http://smc2019.csp.escience.cn/dct/page/1), *April 2019* in Beijing, China \
+- [International Conference on Mathematical Optimization](http://smc2019.csp.escience.cn/dct/page/1)\
+*April 2019* in Beijing, China \
 Importance Sampling via Convex Optimization
-- Science and Technology Convergence Conference, *September 2018* in Yerevan, Armenia \
+- Science and Technology Convergence Conference\
+*October 2018* in Yerevan, Armenia \
 Computational Tractability in the Tasks of Robust Estimation
-- [Structural Inference in High-Dimensional Models](), *September 2018* \
+- [Structural Inference in High-Dimensional Models]()\
+*September 2018* \
 Iteratively re-weighted least squares method convergence for Huber function
-- [Generation-Y Conference](https://www.skoltech.ru/en/2017/10/young-scientists-flock-to-sochi-for-gen-y-conference/), *December 2017* in Sochi, Russia \
+- [Generation-Y Conference](https://www.skoltech.ru/en/2017/10/young-scientists-flock-to-sochi-for-gen-y-conference/)\
+*December 2017* in Sochi, Russia \
 Robust Principal Component Analysis
+
+---
+### Teaching
+
+- Yerevan State University (YSU)
+* Teaching Assistant in "Probability Theory I, II " 2019-2021
+* Teaching Assistant in "Stochastic Processes" 2020-2021
+- Higher School of Economics (HSE)
+* Teaching Assistant in "Probability Theory and Statistics I, II" 2014-2016
+* Teaching Assistant in "Statistical Methods in Machine Learning" 2017-2018
+* Teaching Assistant in "Statistics of Stochastic Processes" 2017-2019
 
 ---
 ### CV
