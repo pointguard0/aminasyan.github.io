@@ -58,3 +58,7 @@ Iteratively re-weighted least squares method convergence for Huber function
 - [Generation-Y Conference](https://www.skoltech.ru/en/2017/10/young-scientists-flock-to-sochi-for-gen-y-conference/), *December 2017* in Sochi, Russia \
 Robust Principal Component Analysis
 
+---
+### CV
+
+My CV can be found [here](https://pointguard0.github.io/files/cv-for-webpage.pdf). Last updated: 15.02.2022
