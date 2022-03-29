@@ -73,7 +73,9 @@ Robust Principal Component Analysis
 1. Yerevan State University (YSU)
 - Teaching Assistant in "Probability Theory I, II " 2019-2021
 - Teaching Assistant in "Stochastic Processes" 2020-2021
-2. Higher School of Economics (HSE)
+2. Skolkovo Institute of Science and Technology (SkolTech)
+- Teaching Assistant in "Biostatistics" 2018-2019
+4. Higher School of Economics (HSE)
 - Teaching Assistant in "Probability Theory and Statistics I, II" 2014-2016
 - Teaching Assistant in "Statistical Methods in Machine Learning" 2017-2018
 - Teaching Assistant in "Statistics of Stochastic Processes" 2017-2019
@@ -81,4 +83,4 @@ Robust Principal Component Analysis
 ---
 ### CV
 
-My CV can be found [here](https://pointguard0.github.io/files/cv-web.pdf). Last updated: 15.02.2022
+My CV can be found [here](https://pointguard0.github.io/files/cv_web.pdf). Last updated: 15.02.2022
