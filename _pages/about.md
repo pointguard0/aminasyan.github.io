@@ -17,7 +17,7 @@ Previously, I recieved my PhD in mathematics from [YSU](http://www.ysu.am/main/)
 --- 
 ### Publications
 
-- [Nearly Minimax Robust Estimator of the Mean Vector by Iterative Spectral Dimension Reduction](https://arxiv.org/pdf/2204.02323.pdf) \
+- [Nearly Minimax Robust Estimator of the Mean Vector by Iterative Spectral Dimension Reduction](https://arxiv.org/abs/2204.02323) \
 Amir-hoosein Bateni, Arshak Minasyan, Arnak S. Dalalyan \
 *Preprint* 
 - [Optimal Detection of the Feature Matching Map in Presence of Noise and Outliers](https://arxiv.org/abs/2106.07044) \
