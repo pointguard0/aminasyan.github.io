@@ -26,12 +26,15 @@ Tigran Galstyan, Arshak Minasyan, Arnak Dalalyan \
 - [Excess-risk Consistency of Group-hard Thresholding Estimator in Robust Estimation of Gaussian Mean](https://link.springer.com/article/10.3103/S1068362320030073) \
 Arshak Minasyan \
 *Journal of Contemporary Mathematical Analysis (Armenian Academy of Sciences), 55: 208–212 (2020).* 
-- [All-in-one Robust Estimator of the Gaussian Mean](https://arxiv.org/abs/2002.01432) \
+[pdf](https://pointguard0.github.io)
+- [All-in-one Robust Estimator of the Gaussian Mean](https://projecteuclid.org/journals/annals-of-statistics/volume-50/issue-2/All-in-one-robust-estimator-of-the-Gaussian-mean/10.1214/21-AOS2145.full) \
 Arnak S. Dalalyan, Arshak Minasyan \
 *Annals of Statistics, Vol. 50(2): 1193-1219 (2022).*
+[pdf](https://pointguard0.github.io/files/21-AOS2145.pdf)
 - [Alternating Least Squares in Generalized Least Squares](https://link.springer.com/article/10.3103/S1068362319050078) \
 Arshak Minasyan \
 *Journal of Contemporary Mathematical Analysis (Armenian Academy of Sciences), 54: 302–312 (2019).*
+[pdf](https://pointguard0.github.io)
 
 ---
 ### Talks 
