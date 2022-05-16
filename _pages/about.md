@@ -12,7 +12,7 @@ I am a postdoctoral fellow at [CREST-ENSAE](https://www.ensae.fr/) funded by [La
 
 My research interests lie broadly in the intersection of high-dimensional statistics, robust statistics and nonparametric statistics. In particular, my work so far has focused on studying both the statistical and computational complexities of certain problems in high-dimensional statistics.
 
-Previously, I recieved my PhD in mathematics from [YSU](http://www.ysu.am/main/), where I was fortunate to be advised by Prof. Victor Ohanian. Prior to that, I completed my bachelor studies in [HSE](https://www.hse.ru/en/) and masters studies in [SkolTech](https://www.skoltech.ru/en/) graduating in 2016 and 2018, respectively. I was fortunate to be advised by Prof. [Vladimir Spokoiny](https://www.wias-berlin.de/people/spokoiny/?lang=0). 
+Previously, I received my PhD in mathematics from [YSU](http://www.ysu.am/main/), where I was fortunate to be advised by Prof. Victor Ohanian. Prior to that, I completed my bachelor studies in [HSE](https://www.hse.ru/en/) and masters studies in [SkolTech](https://www.skoltech.ru/en/) graduating in 2016 and 2018, respectively. I was fortunate to be advised by Prof. [Vladimir Spokoiny](https://www.wias-berlin.de/people/spokoiny/?lang=0). 
 
 --- 
 ### Publications
