@@ -17,9 +17,6 @@ Previously, I received my PhD in mathematics from [YSU](http://www.ysu.am/main/)
 --- 
 ### Publications
 
-- [Optimal Exact Recovery of the Matching Map of Unknown Size]() \
-Tigran Galstyan, Sona Hunanyan, Arshak Minasyan, Arnak Dalalyan \
-*Preprint*
 - [Nearly Minimax Robust Estimator of the Mean Vector by Iterative Spectral Dimension Reduction](https://arxiv.org/abs/2204.02323) \
 Amir-hoosein Bateni, Arshak Minasyan, Arnak S. Dalalyan \
 *Preprint, submitted to RSS-B* 
