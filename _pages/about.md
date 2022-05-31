@@ -17,12 +17,15 @@ Previously, I received my PhD in mathematics from [YSU](http://www.ysu.am/main/)
 --- 
 ### Publications
 
+- [Optimal Exact Recovery of the Matching Map of Unknown Size]() \
+Tigran Galstyan, Sona Hunanyan, Arshak Minasyan, Arnak Dalalyan \
+*Preprint*
 - [Nearly Minimax Robust Estimator of the Mean Vector by Iterative Spectral Dimension Reduction](https://arxiv.org/abs/2204.02323) \
 Amir-hoosein Bateni, Arshak Minasyan, Arnak S. Dalalyan \
-*Preprint* 
+*Preprint, submitted to RSS-B* 
 - [Optimal Detection of the Feature Matching Map in Presence of Noise and Outliers](https://arxiv.org/abs/2106.07044) \
 Tigran Galstyan, Arshak Minasyan, Arnak Dalalyan \
-*Preprint* 
+*Preprint, submitted to EJS* 
 - [Excess-risk Consistency of Group-hard Thresholding Estimator in Robust Estimation of Gaussian Mean](https://link.springer.com/article/10.3103/S1068362320030073) \
 Arshak Minasyan \
 *Journal of Contemporary Mathematical Analysis (Armenian Academy of Sciences), 55: 208–212 (2020).* 
