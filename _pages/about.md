@@ -16,8 +16,8 @@ Previously, I received my PhD in mathematics from [YSU](http://www.ysu.am/main/)
 
 --- 
 ### Publications
-- [Matching Map Recovery with an Unknown Number of Outliers]() \ 
-Arshak Minasyan, Tigran Galstyan, Sona Hunanyan, Arnak Dalalyan \ 
+- [Matching Map Recovery with an Unknown Number of Outliers]() \
+Arshak Minasyan, Tigran Galstyan, Sona Hunanyan, Arnak Dalalyan \
 *Preprint, submitted to AISTATS 2023*
 [software]()
 - [Nearly Minimax Robust Estimator of the Mean Vector by Iterative Spectral Dimension Reduction](https://arxiv.org/abs/2204.02323) \
@@ -38,7 +38,7 @@ Arnak S. Dalalyan, Arshak Minasyan \
 - [Alternating Least Squares in Generalized Least Squares](https://link.springer.com/article/10.3103/S1068362319050078) \
 Arshak Minasyan \
 *Journal of Contemporary Mathematical Analysis (Armenian Academy of Sciences), 54: 302–312 (2019).*
-[pdf](https://pointguard0.github.io)
+["[pdf]"](https://pointguard0.github.io)
 
 ---
 ### Talks 
