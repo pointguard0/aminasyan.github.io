@@ -16,13 +16,17 @@ Previously, I received my PhD in mathematics from [YSU](http://www.ysu.am/main/)
 
 --- 
 ### Publications
-
+- [Matching Map Recovery with an Unknown Number of Outliers]() \ 
+Arshak Minasyan, Tigran Galstyan, Sona Hunanyan, Arnak Dalalyan \ 
+*Preprint, submitted to AISTATS 2023*
+[software]()
 - [Nearly Minimax Robust Estimator of the Mean Vector by Iterative Spectral Dimension Reduction](https://arxiv.org/abs/2204.02323) \
 Amir-hoosein Bateni, Arshak Minasyan, Arnak S. Dalalyan \
 *Preprint, submitted to RSS-B* 
 - [Optimal Detection of the Feature Matching Map in Presence of Noise and Outliers](https://arxiv.org/abs/2106.07044) \
 Tigran Galstyan, Arshak Minasyan, Arnak Dalalyan \
-*Preprint, submitted to EJS* 
+*Accepted to EJS* 
+[pdf](), [software]()
 - [Excess-risk Consistency of Group-hard Thresholding Estimator in Robust Estimation of Gaussian Mean](https://link.springer.com/article/10.3103/S1068362320030073) \
 Arshak Minasyan \
 *Journal of Contemporary Mathematical Analysis (Armenian Academy of Sciences), 55: 208–212 (2020).* 
@@ -30,7 +34,7 @@ Arshak Minasyan \
 - [All-in-one Robust Estimator of the Gaussian Mean](https://projecteuclid.org/journals/annals-of-statistics/volume-50/issue-2/All-in-one-robust-estimator-of-the-Gaussian-mean/10.1214/21-AOS2145.full) \
 Arnak S. Dalalyan, Arshak Minasyan \
 *Annals of Statistics, Vol. 50(2): 1193-1219 (2022).*
-[pdf](https://pointguard0.github.io/files/21-AOS2145.pdf)
+[pdf](https://pointguard0.github.io/files/21-AOS2145.pdf), [software]()
 - [Alternating Least Squares in Generalized Least Squares](https://link.springer.com/article/10.3103/S1068362319050078) \
 Arshak Minasyan \
 *Journal of Contemporary Mathematical Analysis (Armenian Academy of Sciences), 54: 302–312 (2019).*
