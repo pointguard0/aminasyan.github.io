@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+### About me 
 I am a postdoctoral fellow at [CREST-ENSAE](https://www.ensae.fr/) funded by [Labex ECODEC](https://labex-ecodec.ensae.fr/) and hosted by Prof. [Arnak Dalalyan](https://adalalyan.github.io/).
 
 My research interests lie broadly in the intersection of high-dimensional statistics, robust statistics and nonparametric statistics. In particular, my work so far has focused on studying both the statistical and computational complexities of certain problems in high-dimensional statistics.
@@ -16,7 +16,7 @@ Previously, I received my PhD in mathematics from [YSU](http://www.ysu.am/main/)
 
 --- 
 ### Publications
-- [Matching Map Recovery with an Unknown Number of Outliers]() \
+- [Matching Map Recovery with an Unknown Number of Outliers](https://arxiv.org/abs/2210.13354) \
 Arshak Minasyan, Tigran Galstyan, Sona Hunanyan, Arnak Dalalyan \
 *Preprint, submitted to AISTATS 2023*
 [[software]](https://pointguard0.github.io/files/software-matching.zip)
