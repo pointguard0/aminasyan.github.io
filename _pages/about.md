@@ -42,7 +42,15 @@ Arshak Minasyan \
 
 ---
 ### Talks 
-
+- [Optimal Transport, Statistics, Machine Learning and moving in between](https://www.eurandom.tue.nl/event/workshop-yes-optimal-transport-statistics-machine-learning-and-moving-in-between/)\
+*September 2022* in Eindhoven, Netherlands \
+Matching map recovery of unknown size in presence of noise and outliers
+- [International Conference on Computational Statistics (COMPSTAT)](http://www.compstat2022.org/)\
+*August 2022* in Bologne, Italy \
+All-in-one Robust Estimator of the Gaussian Mean
+- [International Symposium on Nonparametric Statistics](http://cyprusconferences.org/isnps2022/)\
+*June 2022* in Paphos, Cyprus \
+Robust mean estimation of the Gaussian mean by iteratice spectral dimension reduction
 - [Meeting in Mathematical Statistics](https://conferences.cirm-math.fr/2581.html)\
 *December 2021* in Luminy, France \
 All-in-one Robust Estimator of the Gaussian Mean
