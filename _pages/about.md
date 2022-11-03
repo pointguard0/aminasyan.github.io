@@ -87,9 +87,10 @@ Robust Principal Component Analysis
 
 1. Yerevan State University (YSU)
 - Teaching Assistant in "Probability Theory I, II " 2019-2021
-- Teaching Assistant in "Stochastic Processes" 2020-2021
+- Teaching Assistant in "Stochastic Processes" Fall 2020
+- Lecturer of "High-dimensional statistics", Spring 2020
 2. Skolkovo Institute of Science and Technology (SkolTech)
-- Teaching Assistant in "Biostatistics" 2018-2019
+- Teaching Assistant in "Biostatistics", Spring 2019
 4. Higher School of Economics (HSE)
 - Teaching Assistant in "Probability Theory and Statistics I, II" 2014-2016
 - Teaching Assistant in "Statistical Methods in Machine Learning" 2017-2018
