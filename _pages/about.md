@@ -22,7 +22,7 @@ Arshak Minasyan, Tigran Galstyan, Sona Hunanyan, Arnak Dalalyan \
 [[software]](https://pointguard0.github.io/files/software-matching.zip)
 - [Nearly Minimax Robust Estimator of the Mean Vector by Iterative Spectral Dimension Reduction](https://arxiv.org/abs/2204.02323) \
 Amir-hoosein Bateni, Arshak Minasyan, Arnak S. Dalalyan \
-*Preprint, submitted to RSS-B* [[software]](https://pointguard0.github.io/files/SDR.zip)
+*Preprint, submitted to JRSS-B* [[software]](https://pointguard0.github.io/files/SDR.zip)
 - [Optimal Detection of the Feature Matching Map in Presence of Noise and Outliers](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-16/issue-2/Optimal-detection-of-the-feature-matching-map-in-presence-of/10.1214/22-EJS2076.full) \
 Tigran Galstyan, Arshak Minasyan, Arnak Dalalyan \
 *Electronic Journal of Statistics, 16(2): 5720-5750 (2022).* 
