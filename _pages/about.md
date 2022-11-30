@@ -35,7 +35,7 @@ Arnak S. Dalalyan, Arshak Minasyan \
 Arshak Minasyan \
 *Journal of Contemporary Mathematical Analysis (Armenian Academy of Sciences), 55: 208–212 (2020).* 
 [[pdf]](https://pointguard0.github.io)
-- [Alternating Least Squares in Generalized Least Squares](https://link.springer.com/article/10.3103/S1068362319050078) \
+- [Alternating Least Squares in Generalized Linear Models](https://link.springer.com/article/10.3103/S1068362319050078) \
 Arshak Minasyan \
 *Journal of Contemporary Mathematical Analysis (Armenian Academy of Sciences), 54: 302–312 (2019).*
 [[pdf]](https://pointguard0.github.io)
