@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-### About me 
+## About me 
 I am a postdoctoral fellow at [CREST-ENSAE](https://www.ensae.fr/) funded by [Labex ECODEC](https://labex-ecodec.ensae.fr/) and hosted by Prof. [Arnak Dalalyan](https://adalalyan.github.io/).
 
 My research interests lie broadly in the intersection of high-dimensional statistics, robust statistics and nonparametric statistics. In particular, my work so far has focused on studying both the statistical and computational complexities of certain problems in high-dimensional statistics.
@@ -15,22 +15,23 @@ My research interests lie broadly in the intersection of high-dimensional statis
 Previously, I received my PhD in mathematics from [YSU](http://www.ysu.am/main/), where I was fortunate to be advised by Prof. Victor Ohanian. Prior to that, I completed my bachelor studies in [HSE](https://www.hse.ru/en/) and masters studies in [SkolTech](https://www.skoltech.ru/en/) graduating in 2016 and 2018, respectively. I was fortunate to be advised by Prof. [Vladimir Spokoiny](https://www.wias-berlin.de/people/spokoiny/?lang=0). 
 
 --- 
-### Publications & Preprints 
+## Publications & Preprints 
 
 
-#### Preprints 
+# Preprints 
 - [Statistically Optimal Robust Mean and Covariance Estimation for Anisotropic Gaussians](https://pointguard0.github.io) \
 Arshak minasyan, Nikita Zhivotovskiy \
+*Preprint*
 
 - [Nearly Minimax Robust Estimator of the Mean Vector by Iterative Spectral Dimension Reduction](https://arxiv.org/abs/2204.02323) \
 Amir-hoosein Bateni, Arshak Minasyan, Arnak S. Dalalyan \
-[[software]](https://pointguard0.github.io/files/SDR.zip)
+*Preprint* [[software]](https://pointguard0.github.io/files/SDR.zip)
 
 
-#### Journal & Conference Publications
+# Journal & Conference Publications
 - [Matching Map Recovery with an Unknown Number of Outliers](https://arxiv.org/abs/2210.13354) \
 Arshak Minasyan, Tigran Galstyan, Sona Hunanyan, Arnak Dalalyan \
-*Accepted to AISTATS 2023*
+*Preprint, accepted to AISTATS 2023*
 [[software]](https://pointguard0.github.io/files/software-matching.zip)
 - [Optimal Detection of the Feature Matching Map in Presence of Noise and Outliers](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-16/issue-2/Optimal-detection-of-the-feature-matching-map-in-presence-of/10.1214/22-EJS2076.full) \
 Tigran Galstyan, Arshak Minasyan, Arnak Dalalyan \
@@ -50,7 +51,7 @@ Arshak Minasyan \
 [[pdf]](https://pointguard0.github.io)
 
 ---
-### Talks 
+## Talks 
 - [Optimal Transport, Statistics, Machine Learning and moving in between](https://www.eurandom.tue.nl/event/workshop-yes-optimal-transport-statistics-machine-learning-and-moving-in-between/)\
 *September 2022* in Eindhoven, Netherlands \
 Matching map recovery of unknown size in presence of noise and outliers
@@ -92,7 +93,7 @@ Iteratively re-weighted least squares method convergence for Huber function
 Robust Principal Component Analysis
 
 ---
-### Teaching
+## Teaching
 
 1. Yerevan State University (YSU)
 - Teaching Assistant in "Probability Theory I, II " 2019-2021
@@ -106,6 +107,6 @@ Robust Principal Component Analysis
 - Teaching Assistant in "Statistics of Stochastic Processes" 2017-2019
 
 ---
-### CV
+## CV
 
 My CV can be found [here](https://pointguard0.github.io/files/minasyan_cv.pdf). Last updated: 21.10.2022
