@@ -15,7 +15,7 @@ My research interests lie broadly in the intersection of high-dimensional statis
 Previously, I received my PhD in mathematics from [YSU](http://www.ysu.am/main/), where I was fortunate to be advised by Prof. Victor Ohanian. Prior to that, I completed my bachelor studies in [HSE](https://www.hse.ru/en/) and masters studies in [SkolTech](https://www.skoltech.ru/en/) graduating in 2016 and 2018, respectively. I was fortunate to be advised by Prof. [Vladimir Spokoiny](https://www.wias-berlin.de/people/spokoiny/?lang=0). 
 
 --- 
-## Publications & Preprints 
+## Publications 
 
 
 ### Preprints 
