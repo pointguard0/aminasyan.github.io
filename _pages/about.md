@@ -18,20 +18,19 @@ Previously, I received my PhD in mathematics from [YSU](http://www.ysu.am/main/)
 ### Publications & Preprints 
 
 
-## Preprints 
+#### Preprints 
 - [Statistically Optimal Robust Mean and Covariance Estimation for Anisotropic Gaussians](https://pointguard0.github.io) \
 Arshak minasyan, Nikita Zhivotovskiy \
-*Preprint*
 
 - [Nearly Minimax Robust Estimator of the Mean Vector by Iterative Spectral Dimension Reduction](https://arxiv.org/abs/2204.02323) \
 Amir-hoosein Bateni, Arshak Minasyan, Arnak S. Dalalyan \
-*Preprint* [[software]](https://pointguard0.github.io/files/SDR.zip)
+[[software]](https://pointguard0.github.io/files/SDR.zip)
 
 
-## Journal & Conference Publications
+#### Journal & Conference Publications
 - [Matching Map Recovery with an Unknown Number of Outliers](https://arxiv.org/abs/2210.13354) \
 Arshak Minasyan, Tigran Galstyan, Sona Hunanyan, Arnak Dalalyan \
-*Preprint, accepted to AISTATS 2023*
+*Accepted to AISTATS 2023*
 [[software]](https://pointguard0.github.io/files/software-matching.zip)
 - [Optimal Detection of the Feature Matching Map in Presence of Noise and Outliers](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-16/issue-2/Optimal-detection-of-the-feature-matching-map-in-presence-of/10.1214/22-EJS2076.full) \
 Tigran Galstyan, Arshak Minasyan, Arnak Dalalyan \
