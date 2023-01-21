@@ -18,7 +18,7 @@ Previously, I received my PhD in mathematics from [YSU](http://www.ysu.am/main/)
 ## Publications & Preprints 
 
 
-# Preprints 
+### Preprints 
 - [Statistically Optimal Robust Mean and Covariance Estimation for Anisotropic Gaussians](https://pointguard0.github.io) \
 Arshak minasyan, Nikita Zhivotovskiy \
 *Preprint*
@@ -28,7 +28,7 @@ Amir-hoosein Bateni, Arshak Minasyan, Arnak S. Dalalyan \
 *Preprint* [[software]](https://pointguard0.github.io/files/SDR.zip)
 
 
-# Journal & Conference Publications
+### Journal & Conference Publications
 - [Matching Map Recovery with an Unknown Number of Outliers](https://arxiv.org/abs/2210.13354) \
 Arshak Minasyan, Tigran Galstyan, Sona Hunanyan, Arnak Dalalyan \
 *Preprint, accepted to AISTATS 2023*
