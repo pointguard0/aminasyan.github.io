@@ -20,7 +20,7 @@ Previously, I received my PhD in mathematics from [YSU](http://www.ysu.am/main/)
 
 ### Preprints 
 - [Statistically Optimal Robust Mean and Covariance Estimation for Anisotropic Gaussians](https://arxiv.org/abs/2301.09024) \
-Arshak minasyan, Nikita Zhivotovskiy \
+Arshak Minasyan, Nikita Zhivotovskiy \
 *Preprint*
 
 - [Nearly Minimax Robust Estimator of the Mean Vector by Iterative Spectral Dimension Reduction](https://arxiv.org/abs/2204.02323) \
