@@ -19,7 +19,7 @@ Previously, I received my PhD in mathematics from [YSU](http://www.ysu.am/main/)
 
 
 ### Preprints 
-- [Statistically Optimal Robust Mean and Covariance Estimation for Anisotropic Gaussians](https://pointguard0.github.io) \
+- [Statistically Optimal Robust Mean and Covariance Estimation for Anisotropic Gaussians](https://arxiv.org/abs/2301.09024) \
 Arshak minasyan, Nikita Zhivotovskiy \
 *Preprint*
 
