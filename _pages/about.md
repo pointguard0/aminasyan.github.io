@@ -109,4 +109,4 @@ Robust Principal Component Analysis
 ---
 ## CV
 
-My CV can be found [here](https://pointguard0.github.io/files/cv (5).pdf). Last update: 21.10.2022
+My CV can be found [here](https://pointguard0.github.io/files/cv (5).pdf). Last update: 25.01.2023
