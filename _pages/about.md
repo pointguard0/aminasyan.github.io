@@ -24,7 +24,7 @@ Arshak Minasyan, Nikita Zhivotovskiy \
 *Preprint*
 
 - [Nearly Minimax Robust Estimator of the Mean Vector by Iterative Spectral Dimension Reduction](https://arxiv.org/abs/2204.02323) \
-Amir-hoosein Bateni, Arshak Minasyan, Arnak S. Dalalyan \
+Amir-Hossein Bateni, Arshak Minasyan, Arnak S. Dalalyan \
 *Preprint* [[software]](https://pointguard0.github.io/files/SDR.zip)
 
 
