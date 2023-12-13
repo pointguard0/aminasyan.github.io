@@ -10,7 +10,7 @@ redirect_from:
 ## About me
 I am an Associate Professor at [CentraleSupélec - Université Paris-Saclay](https://www.centralesupelec.fr/) and a member of the [Laboratoire Signaux et Systèms](https://l2s.centralesupelec.fr/). Previously, I was a postdoctoral fellow at [CREST-ENSAE](https://www.ensae.fr/) funded by [Labex ECODEC](https://labex-ecodec.ensae.fr/) and hosted by Prof. [Arnak Dalalyan](https://adalalyan.github.io/). I received my PhD in mathematics from [YSU](http://www.ysu.am/main/) under the supervision of Prof. Victor Ohanian. Additionally, I pursued my master's and bachelor's programs in mathematics at [SkolTech](https://www.skoltech.ru/en/) and [HSE](https://www.hse.ru/en/) respectively. 
 
-My research interests lie broadly in the intersection of (high-dimensional) robust statistics, robust estimation, and learning theory. In particular, my work so far has focused on studying the statistical and computational complexities of certain problems in high-dimensional statistics.
+My research interests lie broadly in the intersection of (high-dimensional) robust statistics and learning theory. In particular, my work so far has focused on studying the statistical and computational complexities of certain problems in high-dimensional statistics.
 
 --- 
 ## Publications 
