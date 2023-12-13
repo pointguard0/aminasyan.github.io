@@ -7,12 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About me 
-I am a postdoctoral fellow at [CREST-ENSAE](https://www.ensae.fr/) funded by [Labex ECODEC](https://labex-ecodec.ensae.fr/) and hosted by Prof. [Arnak Dalalyan](https://adalalyan.github.io/).
+## About me
+I am an Associate Professor at [CentraleSupélec - Université Paris-Saclay](https://www.centralesupelec.fr/) and a member of the [Laboratoire Signaux et Systèms](https://l2s.centralesupelec.fr/). Previously, I was a postdoctoral fellow at [CREST-ENSAE](https://www.ensae.fr/) funded by [Labex ECODEC](https://labex-ecodec.ensae.fr/) and hosted by Prof. [Arnak Dalalyan](https://adalalyan.github.io/). I received my PhD in mathematics from [YSU](http://www.ysu.am/main/) under the supervision of Prof. Victor Ohanian. Additionally, I pursued my master's and bachelor's programs in mathematics at [SkolTech](https://www.skoltech.ru/en/) and [HSE](https://www.hse.ru/en/) respectively. 
 
-My research interests lie broadly in the intersection of high-dimensional statistics, robust statistics and nonparametric statistics. In particular, my work so far has focused on studying both the statistical and computational complexities of certain problems in high-dimensional statistics.
-
-Previously, I received my PhD in mathematics from [YSU](http://www.ysu.am/main/), where I was fortunate to be advised by Prof. Victor Ohanian. Prior to that, I completed my bachelor studies in [HSE](https://www.hse.ru/en/) and masters studies in [SkolTech](https://www.skoltech.ru/en/) graduating in 2016 and 2018, respectively. I was fortunate to be advised by Prof. [Vladimir Spokoiny](https://www.wias-berlin.de/people/spokoiny/?lang=0). 
+My research interests lie broadly in the intersection of (high-dimensional) robust statistics, robust estimation, and learning theory. In particular, my work so far has focused on studying the statistical and computational complexities of certain problems in high-dimensional statistics.
 
 --- 
 ## Publications 
@@ -109,4 +107,4 @@ Robust Principal Component Analysis
 ---
 ## CV
 
-My CV can be found [here](https://pointguard0.github.io/files/cv (5).pdf). Last update: 25.01.2023
+  My CV can be found [here](https://pointguard0.github.io/files/cv.pdf). Last update: 10.12.2023
