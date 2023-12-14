@@ -12,6 +12,8 @@ I am an Associate Professor at [CentraleSupélec - Université Paris-Saclay](htt
 
 My research interests lie broadly in the intersection of (high-dimensional) robust statistics and learning theory. In particular, my work so far has focused on studying the statistical and computational complexities of certain problems in high-dimensional statistics.
 
+Contact: <arshak.minasyan@centralesupelec.fr>
+
 --- 
 ## Publications 
 
@@ -93,13 +95,18 @@ Robust Principal Component Analysis
 ---
 ## Teaching
 
-1. Yerevan State University (YSU)
+1. CREST-ENSAE
+- Teaching Assistant in “Statistique 2”
+- Project “Modelisation statistique” for 2nd year ENSAE students
+2. Université Paris-Saclay, Laboratoire de Mathématiques d’Orsay
+- “Statistical theory of algorithmic fairness”
+3. Yerevan State University (YSU)
 - Teaching Assistant in "Probability Theory I, II " 2019-2021
 - Teaching Assistant in "Stochastic Processes" Fall 2020
 - Lecturer of "High-dimensional statistics", Spring 2020
-2. Skolkovo Institute of Science and Technology (SkolTech)
+4. Skolkovo Institute of Science and Technology (SkolTech)
 - Teaching Assistant in "Biostatistics", Spring 2019
-4. Higher School of Economics (HSE)
+5. Higher School of Economics (HSE)
 - Teaching Assistant in "Probability Theory and Statistics I, II" 2014-2016
 - Teaching Assistant in "Statistical Methods in Machine Learning" 2017-2018
 - Teaching Assistant in "Statistics of Stochastic Processes" 2017-2019
